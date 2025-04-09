@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and Machine Learning**
 
-- 📫 How to reach me **rizkyzky345@gmail.com**
+- 📫 How to reach me **rizkymlaana.saputra@gmail.com**
 
 - ⚡ Fun fact **i'm a chill guy 😊**
 
