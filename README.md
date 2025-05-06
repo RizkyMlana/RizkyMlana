@@ -12,12 +12,11 @@
 
 - 📫 How to reach me **rizkymlaana.saputra@gmail.com**
 
-- ⚡ Fun fact **i'm a chill guy 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hanyainginuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justrizky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rizky maulana saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky maulana saputra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rizky-maulana-saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky maulana saputra" height="30" width="40" /></a>
 <a href="https://kaggle.com/miiaaww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="miiaaww" height="30" width="40" /></a>
 <a href="https://instagram.com/rizkymlaana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizzkymlana" height="30" width="40" /></a>
 </p>
@@ -30,9 +29,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 <!--   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a>  -->
