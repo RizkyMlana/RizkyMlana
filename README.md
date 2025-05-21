@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizky Maulana Saputra</h1>
 <h3 align="center">I'm a Machine Learning enthusiast, passionate about Artificial Intelligence and Software Development. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RizkyMlana&label=Profile%20views&color=0e75b6&style=flat" alt="rizkythemagicalcheesewizard" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RizkyMlana&label=Profile%20views&color=0e75b6&style=flat" alt="rizkythemagicalcheesewizard" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RizkyMlana&theme=kimbie_dark" alt="rizkythemagicalcheesewizard" /></a></p>
 
