@@ -62,11 +62,11 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMlaana&layout=compact&theme=codeSTACKr" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMlana&layout=compact&theme=codeSTACKr" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizkyMlaana&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizkyMlana&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" />
 </p>
 
 ---
