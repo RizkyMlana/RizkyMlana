@@ -42,8 +42,8 @@
 
 ### 🧠 Featured Projects
 
-- 🔍 [**Sign Language Translator App (ASL)**](https://github.com/RizkyMlaana/sign-language-app)  
-  A mobile app that translates American Sign Language using AI and computer vision.
+- 🔍 [**Sign Language Translator Model (ASL)**](https://github.com/RizkyMlana/SignArgi-Model.git)  
+  A model American Sign Language.
 
 
 ---
