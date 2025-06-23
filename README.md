@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Enthusiast | Passionate in AI and Software Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizkyMlaana&label=Profile%20views&color=0e75b6&style=flat" alt="RizkyMlaana" />
+  <img src="https://komarev.com/ghpvc/?username=RizkyMlana&label=Profile%20views&color=0e75b6&style=flat" alt="RizkyMlana" />
 </p>
 
 <p align="center">
@@ -13,12 +13,16 @@
 
 ---
 
-- 🌱 I’m currently diving into **Computer Vision and Machine Learning**
-- 📫 Reach me at: **rizkymlaana.saputra@gmail.com**
+### 🌱 About Me
+
+- Currently learning **Computer Vision and Machine Learning**
+- Email me at **rizkymlaana.saputra@gmail.com**
+- My personal website is **under development** 🌐✨
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 📬 Connect with me
+
 <p align="left">
   <a href="https://twitter.com/hanyainginuang" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
@@ -36,7 +40,16 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧠 Featured Projects
+
+- 🔍 [**Sign Language Translator App (ASL)**](https://github.com/RizkyMlaana/sign-language-app)  
+  A mobile app that translates American Sign Language using AI and computer vision.
+
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
@@ -48,15 +61,46 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 🚧 Currently Working On
+
+- 🎓 Final project: **idk**
+- 🧠 Migrating from TensorFlow to PyTorch
+- 🌐 Personal website (Next.js + Tailwind) under construction
+
+---
+
+### 💼 Open to Opportunities
+
+I'm open for internships, freelance, or research projects in:
+- Machine Learning / Deep Learning
+- Web Development with Laravel or Next.js
+- Computer Vision Apps or AI-based solutions
+
+📩 Contact me: **rizkymlaana.saputra@gmail.com**
+
+---
+
+### 💡 Did You Know?
+
+- I love turning coffee ☕ into clean code
+- My go-to ML tool? Definitely Transformers 🤖
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/RizkyMlaana?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/RizkyMlaana?label=Stars&style=social" />
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMlana&layout=compact&theme=codeSTACKr" alt="Top Languages" />
