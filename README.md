@@ -98,8 +98,8 @@ I'm open for internships, freelance, or research projects in:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/RizkyMlaana?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/RizkyMlaana?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/RizkyMlana?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/RizkyMlana?label=Stars&style=social" />
 </p>
 
 <p>
