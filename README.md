@@ -71,7 +71,7 @@
 
 ### 🚧 Currently Working On
 
-- 🎓 Final project: **idk**
+- 🎓 Final project: [**Implementation Architecture CNN for Classification Fish Disease**](https://github.com/RizkyMlana/Freshwater-Fish-Disease.git)
 - 🧠 Migrating from TensorFlow to PyTorch
 - 🌐 Personal website (Next.js + Tailwind) under construction
 
